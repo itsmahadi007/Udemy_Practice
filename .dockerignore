@@ -1,8 +1,7 @@
 .idea
-venv
-.env
+env
 **/.git
 .gitignore
 .vscode
-.README.md
-```
+README.md
+LICENSE
