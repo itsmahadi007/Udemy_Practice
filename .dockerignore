@@ -5,4 +5,5 @@ venv
 .gitignore
 .vscode
 .README.md
+LICENSE
 ```
