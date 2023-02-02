@@ -1,6 +1,8 @@
-build:
+clean:
 	export DOCKER_BUILDKIT=0
 	export COMPOSE_DOCKER_CLI_BUILD=0
+
+build:
 	docker compose -f local.yml up --build -d --remove-orphans
 
 up:
